@@ -6,18 +6,8 @@ It all started ages ago on a dark and stormy night, a full blood red moon 🌑 h
 
 I'm not sure I've got the pixels in order yet, but I love what I do. It is my hope that this passion will bring a little light (and magic) to the world. 🌎
 
-[Portfolio](https://display.coffee)
-
-### Languages
-![Languages](https://skillicons.dev/icons?i=html,css,sass,js,ts,php)
-
-### Frameworks / Libraries
-![Frameworks / Libraries](https://skillicons.dev/icons?i=react,angular,jquery)
-
-### Tools
-![Tools](https://skillicons.dev/icons?i=github,vite,webpack,cypress)<br />
-GraphQL, Rest APIs, Lighthouse, TanStack Query, ESLint, Prettier
-
-### CMS
-![CMS](https://skillicons.dev/icons?i=wordpress)<br />
-WHMCS, phpBB, eCommerce platforms (Shopify, BigCommerce, Magento2, etc.)
+- [Portfolio](https://display.coffee)
+- **Languages** -  HTML, CSS, Sass, CSS Modules, JavaScript, TypeScript, PHP
+- **Frameworks / Libraries** -  React, Angular, jQuery
+- **Tools** - Github, Vite, Webpack, GraphQL, Rest APIs, Cypress, Lighthouse, TanStack Query, ESLint, Prettier
+- **CMS** - WordPress, WHMCS, phpBB, eCommerce platforms (Shopify, BigCommerce, Magento2, etc.)
