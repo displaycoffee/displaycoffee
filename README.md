@@ -11,5 +11,5 @@ I'm not sure I've got the pixels in order yet, but I love what I do. It is my ho
 ☕ **[Portfolio](https://display.coffee)**<br />
 📖 **Languages** -  HTML, CSS, Sass, CSS Modules, JavaScript, TypeScript, PHP<br />
 🖼️ **Frameworks / Libraries** -  React, Angular, jQuery, Express<br />
-🛠️ **Tools** - GitHub, Vite, Webpack, GraphQL, Rest APIs, Cypress, Lighthouse, TanStack Query, ESLint, Prettier, Node.js, Claude Code, Gemini<br />
-📝 **CMS** - WordPress, WHMCS, phpBB, eCommerce platforms (Shopify, BigCommerce, Magento2, etc.)
+🛠️ **Tools** - TanStack Query, GitHub, Vite, Webpack, GraphQL, Rest APIs, Cypress, Lighthouse, ESLint, Prettier, Node.js, Claude Code, Gemini
+📝 **CMS** - eCommerce platforms (Shopify, BigCommerce, Magento2, etc.), WordPress, WHMCS, phpBB
