@@ -8,8 +8,8 @@ I've been coding for as long as I can remember (fifteen years or more) and speci
 
 I'm not sure I've got the pixels in order yet, but I love what I do. It is my hope that this passion will bring a little light (and magic) to the world. 🌎
 
-- ☕ **[Portfolio](https://display.coffee)**
-- 📖 **Languages** - HTML5, CSS, Sass, CSS Modules, JavaScript, TypeScript, PHP
-- 🖼️ **Frameworks and libraries** - React, Angular, jQuery, Express, Framer Motion, Astro
-- 🛠️ **Tools and methodologies** - TanStack Query, GitHub, Vite, Webpack, GraphQL, REST APIs, Cypress, Lighthouse, ESLint, Prettier, Node.js, Claude Code, Gemini, View Transitions API, Storybook, Performance Optimization, Core Web Vitals
-- 📝 **CMS** - eCommerce platforms (Shopify, BigCommerce, Magento2, etc.), WordPress, WHMCS, phpBB
+☕ **[Portfolio](https://display.coffee)**
+📖 **Languages** - HTML5, CSS, Sass, CSS Modules, JavaScript, TypeScript, PHP
+🖼️ **Frameworks and libraries** - React, Angular, jQuery, Express, Framer Motion, Astro
+🛠️ **Tools and methodologies** - TanStack Query, GitHub, Vite, Webpack, GraphQL, REST APIs, Cypress, Lighthouse, ESLint, Prettier, Node.js, Claude Code, Gemini, View Transitions API, Storybook, Performance Optimization, Core Web Vitals
+📝 **CMS** - eCommerce platforms (Shopify, BigCommerce, Magento2, etc.), WordPress, WHMCS, phpBB
