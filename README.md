@@ -10,6 +10,6 @@ I'm not sure I've got the pixels in order yet, but I love what I do. It is my ho
 
 ☕ **[Portfolio](https://display.coffee)**<br />
 📖 **Languages** - HTML5, CSS, Sass, CSS Modules, JavaScript, TypeScript, PHP<br />
-🖼️ **Frameworks and libraries** - React, Angular, jQuery, Express, Framer Motion, Astro<br />
+🖼️ **Frameworks and libraries** - React, Angular, jQuery, Tailwind CSS, Express, Framer Motion, Astro<br />
 🛠️ **Tools and methodologies** - TanStack Query, GitHub, Vite, Webpack, GraphQL, REST APIs, Cypress, Lighthouse, ESLint, Prettier, Node.js, Claude Code, Gemini, View Transitions API, Storybook, Performance Optimization, Core Web Vitals<br />
 📝 **CMS** - eCommerce platforms (Shopify, BigCommerce, Magento2, etc.), WordPress, WHMCS, phpBB
